@@ -1,1 +1,2 @@
-[ROOT]
+
+# **A root tool for AEmulator**
