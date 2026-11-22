@@ -1,4 +1,4 @@
-![[AEP_ICON.png]]
+![AEP_ICON](AEP_ICON)
 # A Tool For The $AEmulator$🥳
 [HTML](https://hemitcanj.github.io/rootforAEmulator/)
 
